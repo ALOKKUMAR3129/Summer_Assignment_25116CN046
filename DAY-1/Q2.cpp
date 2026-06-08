@@ -3,9 +3,9 @@
 using namespace std;
 int main(){
     int i,mul,n;
-    cout << "enter number: ";
+    cout << "Enter Number: ";
     cin >> n;
-    cout << "multiplication table of " << n << " is.."<< "\n";
+    cout << "Multiplication Table of " << n << " is.."<< "\n";
     for(i=0;i<=10;i++){
         mul=n*i;
         cout << n << " * " << i << " = " << mul << "\n";
