@@ -10,6 +10,6 @@ int main(){
         temp=temp/10;
         count=count+1;
     }
-    cout << "Number of Digits in " << n << " is = " << count;
+    cout << "Number of Digits in " << n << " = " << count;
     return 0;
 }
