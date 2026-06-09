@@ -1,4 +1,4 @@
-*.exe
-*.o
-*.obj 
-tempCodeRunnerFile.cpp
+*.exe 
+*.o 
+*.obj  
+tempCodeRunnerFile.cpp 
