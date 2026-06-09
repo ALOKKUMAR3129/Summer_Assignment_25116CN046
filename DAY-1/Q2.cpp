@@ -11,4 +11,5 @@ int main(){
         cout << n << " * " << i << " = " << mul << "\n";
     }
     return 0;
+    
 }
