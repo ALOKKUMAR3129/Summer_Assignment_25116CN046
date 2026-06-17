@@ -8,7 +8,7 @@ int main(){
     int a[n];
     int b[n];
     int in[50]={0};
-    int totalElements = 0;
+    int totalElements = 0 ;
     cout << "enter first array elements" << "\n";
     for(i=0;i<n;i++){
         cout << "enter element " << i+1 << " : ";

@@ -7,7 +7,7 @@ int main(){
     cin >> n;
     int a[n];
     int b[n];
-    int u[50];
+    int u[50]; 
     int totalElements = n;
     cout << "enter first array elements" << "\n";
     for(i=0;i<n;i++){

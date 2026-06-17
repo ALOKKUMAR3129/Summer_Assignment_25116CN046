@@ -7,7 +7,7 @@ int main(){
     cin >> n;
     int a[n];
     int b[n];
-    int m[n];
+    int m[n]; 
     cout << "enter first array elements" << "\n";
     for(i=0;i<n;i++){
         cout << "enter element " << i+1 << " : ";
