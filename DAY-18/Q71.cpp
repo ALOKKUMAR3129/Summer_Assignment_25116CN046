@@ -32,6 +32,7 @@ int main() {
         else {
             high = mid - 1; 
         }
+        
     }   
     if (found_index != -1) {
         cout << "Element found at position : " << found_index + 1 << endl;
