@@ -7,7 +7,7 @@ int main(){
     
     cout << "enter full string : ";
     getline(cin, str); 
- 
+  
     for(i=0; str[i] != '\0'; i++){
         is_repeating = 0; 
         if(str[i] == ' '){

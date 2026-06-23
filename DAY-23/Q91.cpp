@@ -13,7 +13,7 @@ int main(){
 
     for(i=0; str1[i] != '\0'; i++){
         len1++;
-    }
+    } 
     for(i=0; str2[i] != '\0'; i++){
         len2++;
     }

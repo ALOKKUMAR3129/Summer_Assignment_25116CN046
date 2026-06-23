@@ -13,7 +13,7 @@ int main(){
         if(str[i] == ' '){
             continue;
         }
-
+ 
         for(j=i+1; str[j] != '\0'; j++){
             if(str[i] == str[j]){
                 cout << "first repeating character : " << str[i] << "\n";
