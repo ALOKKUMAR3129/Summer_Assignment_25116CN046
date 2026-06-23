@@ -9,7 +9,7 @@ int main(){
     getline(cin, str);
 
     for(i=0; str[i] != '\0'; i++){
-
+ 
         if(str[i] == ' '){
             continue;
         }

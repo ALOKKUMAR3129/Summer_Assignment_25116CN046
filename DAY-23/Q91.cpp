@@ -7,7 +7,7 @@ int main(){
     char temp;
     
     cout << "enter first string : ";
-    getline(cin, str1);
+    getline(cin, str1); 
     cout << "enter second string : ";
     getline(cin, str2);
 
